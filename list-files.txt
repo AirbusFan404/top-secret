@@ -1,14 +1,26 @@
 LICENSE
 ```
-Custom License
+MIT License
 
-Copyright (c) Isaac Dunn 2026-2076
+Copyright (c) 2026-2076 Isaac Dunn
 
-This license allows for all and any forms of distribution, copying, usage, and viewing of this code, however does not allow for any modificiations unless such modification is a full deletion of your copy of this code, and does not have any liabilities or warrenties. The user is responsible for all damages related to this code.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-With permission from the author, Isaac Dunn, one may void any of the aforementioned rules.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Effective February 23, 2076, this project is to enter the public domain and all above statements will become void.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ```
 
@@ -18,7 +30,7 @@ README.md
 # Top Secret 🤫
 Top secret is a data language written in Python that bridges a market gap between human-readable data languages like JSON, TOML, and YAML and encrypted data languages like AES-256, ECC, and RSA. It can be used to encode and decode top secrets that are not human readable but also not encrypted, more like somewhere in between. It uses simple loading and dumping functions just like the familiar `json`, `toml`, and `yaml` libraries in Python. To install, run the command `pip install git+http://github.com/AirbusFan404/top-secret`.
 ## License ⚖
-This project uses a custom license at the file `LICENSE`. Please read the license before installing this package.
+This project uses a license at the file `LICENSE`. Please read the license before installing this package.
 ## Security Warning 🗝
 This project is not meant for storing sensitive information like passwords due to how easily it can be reversed.
 ## File Data Loss Warning 📁
