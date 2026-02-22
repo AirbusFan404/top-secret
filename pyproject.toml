@@ -1,0 +1,22 @@
+[project]
+name = "top-secret"
+version = "0.0.0"
+requires-python = ">=3.10,<3.15"
+dependencies = []
+license = { file = "LICENSE" }
+readme = "README.md"
+
+[[project.authors]]
+name = "Isaac Dunn"
+email = "30stu225@lexingtonma.org"
+
+[project.urls]
+Homepage = "http://github.com/AirbusFan404/top-secret"
+Repository = "http://github.com/AirbusFan404/top-secret"
+Issues = "http://github.com/AirbusFan404/top-secret/issues"
+Changelog = "http://github.com/AirbusFan404/top-secret/blob/main/CHANGELOG.md"
+Documentation = "http://github.com/AirbusFan404/top-secret/blob/main/README.md"
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
