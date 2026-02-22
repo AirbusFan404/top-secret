@@ -1,0 +1,10 @@
+*
+.*
+!pyproject.toml
+!top_secret.py
+!README.md
+!LICENSE
+!CHANGELOG.md
+!.gitignore
+!dist
+!dist/*
