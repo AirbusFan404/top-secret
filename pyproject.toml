@@ -14,7 +14,6 @@ email = "30stu225@lexingtonma.org"
 Homepage = "http://github.com/AirbusFan404/top-secret"
 Repository = "http://github.com/AirbusFan404/top-secret"
 Issues = "http://github.com/AirbusFan404/top-secret/issues"
-Changelog = "http://github.com/AirbusFan404/top-secret/blob/main/CHANGELOG.md"
 Documentation = "http://github.com/AirbusFan404/top-secret/blob/main/README.md"
 
 [build-system]
