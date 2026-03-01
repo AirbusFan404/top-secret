@@ -1,0 +1,10 @@
+*
+.*
+!.gitignore
+!LICENSE.txt
+!list_files.md
+!list_files.py
+!README.md
+!test_top_secret.py
+!top_secret.py
+!pyproject.toml
